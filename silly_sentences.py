@@ -1,4 +1,4 @@
-print("Let's play Silly Sentences!")
+print("Let's play Silly Sentences! \n")
 name = input("Enter a name: ")
 adj1 = input("Enter an adjective: ")
 adj2 = input("Enter an adjective: ")
